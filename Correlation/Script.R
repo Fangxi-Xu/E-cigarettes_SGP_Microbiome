@@ -136,6 +136,15 @@ circos.clear()
 
 chordDiagram(t(top20_cor_neg_data), grid.col = grid_col)
 circos.clear()
+#########################################################################################
+library(pheatmap)
+pdf("cor_color_corrected.pdf", width =6, height =6)
+pheatmap(top20_cor_data , color = colorRampPalette(c("navy", "white", "darkorange","firebrick3"))(200),
+         cellheight = 10,
+         cellwidth = 10,
+         fontsize_row=10, fontsize_col = 8, angle_col = "90",  cluster_cols = F)
+dev.off()
+
 
 
 
