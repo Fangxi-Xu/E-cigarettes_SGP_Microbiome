@@ -6,4 +6,6 @@ Electronic cigarettes (e-cigs) have become prevalent as an alternative to conven
 
 Alpha diversity, Beta diversity, Differential taxa indentifying
 
-[*Correlation Analysis]
+[*Correlation Analysis](https://github.com/Fangxi-Xu/E-cigarettes_SGP_Microbiome/tree/main/Correlation)
+
+Pearson's correlation analysis 
