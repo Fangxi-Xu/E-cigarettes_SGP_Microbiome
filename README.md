@@ -12,3 +12,6 @@ Alpha diversity, Beta diversity, Differential taxa indentifying
 Pearson's correlation analysis 
 
 ## Publication
+
+Thomas, S. C., Xu, F., Pushalkar, S., Lin, Z., Thakor, N., Vardhan, M., . . . Chowdhary, A. Electronic Cigarette Use Promotes a Unique Periodontal Microbiome. mBio, 0(0), e00075-00022. doi:doi:10.1128/mbio.00075-22
+
