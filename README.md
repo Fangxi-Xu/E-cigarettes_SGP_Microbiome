@@ -13,5 +13,9 @@ Pearson's correlation analysis
 
 ## Publication
 
-Thomas, S. C., Xu, F., Pushalkar, S., Lin, Z., Thakor, N., Vardhan, M., . . . Chowdhary, A. Electronic Cigarette Use Promotes a Unique Periodontal Microbiome. mBio, 0(0), e00075-00022. doi:doi:10.1128/mbio.00075-22
+Thomas, S. C., F. Xu, S. Pushalkar, Z. Lin, N. Thakor, M. Vardhan, Z. Flaminio, A. Khodadadi-Jamayran, R. Vasconcelos, A. Akapo, E. Queiroz, M. Bederoff, M. N. Janal, Y. Guo, D. Aguallo, T. Gordon, P. M. Corby, A. R. Kamer, X. Li, D. Saxena and A. Chowdhary "Electronic Cigarette Use Promotes a Unique Periodontal Microbiome." mBio 0(0): e00075-00022.
+
+(https://journals.asm.org/doi/10.1128/mbio.00075-22)
+
+
 
